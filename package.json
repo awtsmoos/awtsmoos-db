@@ -16,6 +16,6 @@
   "license": "ISC",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/your-username/awtsmoos-db.git"
+    "url": "git+https://github.com/awtsmoos/awtsmoos-db.git"
   }
 }
